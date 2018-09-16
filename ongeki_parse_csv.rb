@@ -33,11 +33,11 @@ def calc_rank(n)
 	end
 end
 
+require 'csv'
 db=File.open(File.expand_path(File.dirname(__FILE__))+'/ongeki_constants.csv'){|f|
 	h={}
-	f.each_line{|l|
-		a=l.chomp.split(',')
-		h[[a[0],a[1]]]=a[2]
+	CSV.parse(f.read).each{|e|
+		h[[e[0],e[1]]]=e[2]
 	}
 	h
 }
