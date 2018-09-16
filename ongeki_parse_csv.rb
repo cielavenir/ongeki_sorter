@@ -1,5 +1,5 @@
 #!/usr/bin/ruby
-#AA(90万点)行っていない譜面についてはただしくレーティングが算出できません
+#AA(90万点)行っていない譜面については算出されるレートがずれる可能性があります
 
 def calc_diff(n)
 	if n>=1007500
@@ -33,7 +33,7 @@ def calc_rank(n)
 	end
 end
 
-db=File.open(File.expand_path(File.dirname(__FILE__))+'/constants.csv'){|f|
+db=File.open(File.expand_path(File.dirname(__FILE__))+'/ongeki_constants.csv'){|f|
 	h={}
 	f.each_line{|l|
 		a=l.chomp.split(',')

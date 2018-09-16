@@ -10,7 +10,7 @@
 
 ## 譜面定数表
 
-- constants.csv になります。譜面定数が不明なものは.0か.7にしてあります。
+- ongeki_constants.csv になります。譜面定数が不明なものは.0か.7にしてあります。
 - 作成方法は公開としておりません。twitter @cielavenirにDMくだされば返信する **かもしれません** 。
 
 ## スコア表
@@ -22,6 +22,6 @@
 
 ## レート表
 
-- `parse_csv.rb (得られたcsv) > sorted.txt`
+- `ongeki_parse_csv.rb (得られたcsv) > sorted.txt`
 - と実行してください。その後sorted.txtをGoogle Spreadsheetに貼り付け(るかExcelで開くかし)てください。
 - なお、小数点でなく100倍した整数が表示されるのは、貼り付けたときにバグりうるのを防ぐためですので、現状は仕様ということにさせてください…
