@@ -5,7 +5,7 @@
 
 ## 制限
 - 正直、急造です。ちゃんとしたツールにする予定が取れない状態です。だれか作るまでのつなぎと考えていただければ--;
-- parse_csv.rbの実行にはRubyが必要です。OSXでは標準で入っています。2.0で動作確認、1.9以降なら動くはずです。
+- ongeki_parse_csv.rbの実行にはRubyが必要です。OSXでは標準で入っています。2.0で動作確認、1.9以降なら動くはずです。
 - AA(90万点)行っていない譜面については算出されるレートがずれる可能性があります。
 
 ## 譜面定数表
@@ -16,12 +16,23 @@
 ## スコア表
 
 - https://www.ginjake.net/ongeki/readme のブックマークレット
-    - と言いたいところですが、一部取得漏れがあるので、当面は修正版 https://github.com/cielavenir/ongeki_score/blob/update_bookmarklet/public/js/ongeki_score.js をデベロッパーツールに貼り付けてください。
-    - 右クリックができないようですので、ブラウザのメニューから開いてください。
+    - ~~https://github.com/cielavenir/ongeki_score/blob/update_bookmarklet/public/js/ongeki_score.js~~
 - 実行するとcsvが得られます。
+- あちらの説明書にも記載がありますが、 **有料コース加入が必要です。**
 
 ## レート表
 
 - `ongeki_parse_csv.rb (得られたcsv) > sorted.txt`
 - と実行してください。その後sorted.txtをGoogle Spreadsheetに貼り付け(るかExcelで開くかし)てください。
 - なお、小数点でなく100倍した整数が表示されるのは、貼り付けたときにバグりうるのを防ぐためですので、現状は仕様ということにさせてください…
+- 表サンプル：https://docs.google.com/spreadsheets/d/17EHX57cQ_nE9euPWj-5yRjMIaEABvCzizbU0lzmnKCc/edit?usp=sharing
+
+# chunithm_sorter
+- https://www.ginjake.net/score/tyunistar.php のブックマークレットを実行するとcsvが得られます。
+- あとはオンゲキと同様です。
+- 表サンプル：https://docs.google.com/spreadsheets/d/1DHLLLaa2odajD5cNmvkpVZBEgVVE2vlrzwsO-fAjhZ0/edit?usp=sharing
+
+# maimai_sorter
+- https://docs.google.com/spreadsheets/d/1EcodNpPUgAtNFboMd1l-8fo9TJRYsbx8Ho-vVJV-5Fs/edit?usp=sharing
+- に表のサンプルがありますが、単曲レート値計算プログラムは現状非公開です(それに…定数未入力なのでぶれぶれですから、いりませんよね)。
+- なお計算式はchunithm/ongekiとそれなりに異なっています。
