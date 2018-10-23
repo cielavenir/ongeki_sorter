@@ -1278,6 +1278,10 @@
 "Bird Sprite",advanced,500
 "Bird Sprite",expert,870
 "Bird Sprite",master,1220
+"オモイヨシノ",basic,300
+"オモイヨシノ",advanced,500
+"オモイヨシノ",expert,800
+"オモイヨシノ",master,1150
 "Dengeki Tube",basic,400
 "Dengeki Tube",advanced,770
 "Dengeki Tube",expert,1170
@@ -1504,7 +1508,7 @@
 "World Vanquisher",master,1410
 "macrocosmos",basic,400
 "macrocosmos",advanced,900
-"macrocosmos",expert,1200
+"macrocosmos",expert,1250
 "macrocosmos",master,1400
 "Iudicium",basic,300
 "Iudicium",advanced,700
@@ -1942,6 +1946,10 @@
 "TOMORROW",advanced,500
 "TOMORROW",expert,900
 "TOMORROW",master,1160
+"Chocolate Happy",basic,300
+"Chocolate Happy",advanced,500
+"Chocolate Happy",expert,900
+"Chocolate Happy",master,1110
 "管弦楽組曲 第3番 ニ長調「第2曲（G線上のアリア）」BWV.1068-2",basic,300
 "管弦楽組曲 第3番 ニ長調「第2曲（G線上のアリア）」BWV.1068-2",advanced,700
 "管弦楽組曲 第3番 ニ長調「第2曲（G線上のアリア）」BWV.1068-2",expert,1190
@@ -1969,7 +1977,7 @@
 "かーてんこーる!!!!!",basic,300
 "かーてんこーる!!!!!",advanced,500
 "かーてんこーる!!!!!",expert,870
-"かーてんこーる!!!!!",master,1170
+"かーてんこーる!!!!!",master,1190
 "SEVENTH HAVEN",basic,200
 "SEVENTH HAVEN",advanced,500
 "SEVENTH HAVEN",expert,870
@@ -1996,7 +2004,7 @@
 "Drivessover",master,1280
 "Surveiller et punir",basic,300
 "Surveiller et punir",advanced,700
-"Surveiller et punir",expert,1170
+"Surveiller et punir",expert,1190
 "Surveiller et punir",master,1390
 "業 -善なる神とこの世の悪について-",basic,400
 "業 -善なる神とこの世の悪について-",advanced,970
@@ -2009,7 +2017,7 @@
 "ニホンゴワカリマセン",basic,300
 "ニホンゴワカリマセン",advanced,600
 "ニホンゴワカリマセン",expert,900
-"ニホンゴワカリマセン",master,1100
+"ニホンゴワカリマセン",master,1160
 "Get goal!",basic,200
 "Get goal!",advanced,500
 "Get goal!",expert,900
@@ -2057,7 +2065,7 @@
 "チルノおかんのさいきょう☆バイブスごはん",basic,300
 "チルノおかんのさいきょう☆バイブスごはん",advanced,600
 "チルノおかんのさいきょう☆バイブスごはん",expert,970
-"チルノおかんのさいきょう☆バイブスごはん",master,1200
+"チルノおかんのさいきょう☆バイブスごはん",master,1260
 "放課後ストライド",basic,300
 "放課後ストライド",advanced,600
 "放課後ストライド",expert,900
