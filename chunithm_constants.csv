@@ -185,7 +185,7 @@
 "ＧＯ！ＧＯ！ラブリズム♥",basic,300
 "ＧＯ！ＧＯ！ラブリズム♥",advanced,500
 "ＧＯ！ＧＯ！ラブリズム♥",expert,970
-"ＧＯ！ＧＯ！ラブリズム♥",master,1100
+"ＧＯ！ＧＯ！ラブリズム♥",master,1110
 "Grab your sword",basic,300
 "Grab your sword",advanced,600
 "Grab your sword",expert,800
@@ -909,7 +909,7 @@
 "secret base ～君がくれたもの～ (10 years after Ver.)",basic,100
 "secret base ～君がくれたもの～ (10 years after Ver.)",advanced,400
 "secret base ～君がくれたもの～ (10 years after Ver.)",expert,870
-"secret base ～君がくれたもの～ (10 years after Ver.)",master,1100
+"secret base ～君がくれたもの～ (10 years after Ver.)",master,1180
 "No Routine",basic,200
 "No Routine",advanced,600
 "No Routine",expert,900
@@ -1057,7 +1057,7 @@
 "Tic Tac DREAMIN’",basic,300
 "Tic Tac DREAMIN’",advanced,500
 "Tic Tac DREAMIN’",expert,870
-"Tic Tac DREAMIN’",master,1170
+"Tic Tac DREAMIN’",master,1180
 "SPICY SWINGY STYLE",basic,300
 "SPICY SWINGY STYLE",advanced,600
 "SPICY SWINGY STYLE",expert,970
@@ -1924,7 +1924,7 @@
 "Chocolate Happy",master,1110
 "管弦楽組曲 第3番 ニ長調「第2曲（G線上のアリア）」BWV.1068-2",basic,300
 "管弦楽組曲 第3番 ニ長調「第2曲（G線上のアリア）」BWV.1068-2",advanced,700
-"管弦楽組曲 第3番 ニ長調「第2曲（G線上のアリア）」BWV.1068-2",expert,1170
+"管弦楽組曲 第3番 ニ長調「第2曲（G線上のアリア）」BWV.1068-2",expert,1190
 "管弦楽組曲 第3番 ニ長調「第2曲（G線上のアリア）」BWV.1068-2",master,1350
 "ここで一席！　Oshama Scramble!",basic,300
 "ここで一席！　Oshama Scramble!",advanced,600
@@ -2070,6 +2070,30 @@
 "シャルル",advanced,500
 "シャルル",expert,800
 "シャルル",master,1160
+"地獄の端にて君を待つ",basic,300
+"地獄の端にて君を待つ",advanced,600
+"地獄の端にて君を待つ",expert,900
+"地獄の端にて君を待つ",master,1240
+"聖少女サクリファイス",basic,200
+"聖少女サクリファイス",advanced,500
+"聖少女サクリファイス",expert,900
+"聖少女サクリファイス",master,1280
+"究極焼肉レストラン！お燐の地獄亭！",basic,300
+"究極焼肉レストラン！お燐の地獄亭！",advanced,600
+"究極焼肉レストラン！お燐の地獄亭！",expert,800
+"究極焼肉レストラン！お燐の地獄亭！",master,1210
+"WARNING!",basic,300
+"WARNING!",advanced,500
+"WARNING!",expert,970
+"WARNING!",master,1250
+"Paranoia",basic,300
+"Paranoia",advanced,500
+"Paranoia",expert,970
+"Paranoia",master,1240
+"ナイト・オブ・ナイツ (Cranky Remix)",basic,300
+"ナイト・オブ・ナイツ (Cranky Remix)",advanced,600
+"ナイト・オブ・ナイツ (Cranky Remix)",expert,1000
+"ナイト・オブ・ナイツ (Cranky Remix)",master,1320
 "Brain Power",basic,300
 "Brain Power",advanced,700
 "Brain Power",expert,1100
