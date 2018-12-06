@@ -96,7 +96,12 @@
 "連れ去って・閉じ込めて・好きにして",MASTER,1090
 "GOODRAGE",MASTER,1390
 "Dragoon",MASTER,1260
-"月に叢雲華に風",MASTER,1200
+"月に叢雲華に風",MASTER,1240
+"CiRCLING",MASTER,1190
+"Hey-day狂騒曲（カプリチオ）",MASTER,1250
+"ゆら・ゆらRing-Dong-Dance",MASTER,1230
+"Opera of the wasteland",MASTER,1290
+"ゴーカ！ごーかい！？ファントムシーフ！",MASTER,1290
 "STARTLINER",EXPERT,870
 "Perfect Shining!!",EXPERT,800
 "君の知らない物語",EXPERT,770
@@ -150,9 +155,9 @@
 "SWEET SHAKE!!",EXPERT,900
 "What color...",EXPERT,900
 "SAKURA",EXPERT,800
-"We Gonna Journey",EXPERT,1000
-"Paqqin",EXPERT,1000
-"閃鋼のブリューナク",EXPERT,1000
+"We Gonna Journey",EXPERT,1040
+"Paqqin",EXPERT,1020
+"閃鋼のブリューナク",EXPERT,1040
 "神威",EXPERT,1190
 "Maqrite",EXPERT,970
 "Sword of Secret",EXPERT,970
@@ -176,17 +181,17 @@
 "れみりあ☆デスティニー",EXPERT,900
 "sweet little sister",EXPERT,900
 "Destiny Runner",EXPERT,1000
-"最終鬼畜妹フランドール・Ｓ",EXPERT,1000
+"最終鬼畜妹フランドール・Ｓ",EXPERT,1010
 "砂の惑星 feat. HATSUNE MIKU",EXPERT,800
 "ゴーストルール",EXPERT,970
 "ブリキノダンス",EXPERT,900
 "今ぞ♡崇め奉れ☆オマエらよ！！～姫の秘メタル渇望～",EXPERT,970
-"Kattobi KEIKYU Rider",EXPERT,1070
-"エンドマークに希望と涙を添えて",EXPERT,1100
+"Kattobi KEIKYU Rider",EXPERT,1080
+"エンドマークに希望と涙を添えて",EXPERT,1160
 "Dazzle hop",EXPERT,1230
 "YURUSHITE",EXPERT,1250
 "TOMORROW",EXPERT,870
-"カミサマネジマキ",EXPERT,1100
+"カミサマネジマキ",EXPERT,1150
 "いーあるふぁんくらぶ",EXPERT,800
 "幸せになれる隠しコマンドがあるらしい",EXPERT,970
 "チュルリラ・チュルリラ・ダッダッダ！",EXPERT,1000
@@ -196,6 +201,11 @@
 "GOODRAGE",EXPERT,1150
 "Dragoon",EXPERT,900
 "月に叢雲華に風",EXPERT,870
+"CiRCLING",EXPERT,870
+"Hey-day狂騒曲（カプリチオ）",EXPERT,900
+"ゆら・ゆらRing-Dong-Dance",EXPERT,900
+"Opera of the wasteland",EXPERT,900
+"ゴーカ！ごーかい！？ファントムシーフ！",EXPERT,970
 "STARTLINER",ADVANCED,500
 "Perfect Shining!!",ADVANCED,600
 "君の知らない物語",ADVANCED,500
@@ -295,6 +305,11 @@
 "GOODRAGE",ADVANCED,770
 "Dragoon",ADVANCED,600
 "月に叢雲華に風",ADVANCED,600
+"CiRCLING",ADVANCED,600
+"Hey-day狂騒曲（カプリチオ）",ADVANCED,600
+"ゆら・ゆらRing-Dong-Dance",ADVANCED,600
+"Opera of the wasteland",ADVANCED,600
+"ゴーカ！ごーかい！？ファントムシーフ！",ADVANCED,700
 "STARTLINER",BASIC,200
 "Perfect Shining!!",BASIC,300
 "君の知らない物語",BASIC,200
@@ -394,6 +409,11 @@
 "GOODRAGE",BASIC,400
 "Dragoon",BASIC,300
 "月に叢雲華に風",BASIC,300
+"CiRCLING",BASIC,200
+"Hey-day狂騒曲（カプリチオ）",BASIC,200
+"ゆら・ゆらRing-Dong-Dance",BASIC,300
+"Opera of the wasteland",BASIC,200
+"ゴーカ！ごーかい！？ファントムシーフ！",BASIC,300
 "No Remorse",LUNATIC,1400
 "初音ミクの激唱",LUNATIC,1390
-"ナイト・オブ・ナイツ",LUNATIC,1370
+"ナイト・オブ・ナイツ",LUNATIC,1380
