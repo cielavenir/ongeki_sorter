@@ -18,7 +18,7 @@
 - https://www.ginjake.net/ongeki/readme のブックマークレット
     - ~~https://github.com/cielavenir/ongeki_score/blob/update_bookmarklet/public/js/ongeki_score.js~~
 - 実行するとcsvが得られます。
-- あちらの説明書にも記載がありますが、 **有料コース加入が必要です。**
+- ginjake.netの説明書にも記載がありますが、 **有料コース加入が必要です。ただし、OngekiScoreLogと異なりプレミアムコースは不要です。スタンダードコースで問題ありません。**
 
 ## レート表
 
