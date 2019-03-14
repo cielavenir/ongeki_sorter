@@ -1982,6 +1982,10 @@
 "業 -善なる神とこの世の悪について-",advanced,970
 "業 -善なる神とこの世の悪について-",expert,1300
 "業 -善なる神とこの世の悪について-",master,1410
+"End Time",basic,300
+"End Time",advanced,800
+"End Time",expert,1270
+"End Time",master,1390
 "メニメニマニマニ",basic,200
 "メニメニマニマニ",advanced,500
 "メニメニマニマニ",expert,870
@@ -2082,6 +2086,26 @@
 "The Girls Are Alright!",advanced,500
 "The Girls Are Alright!",expert,870
 "The Girls Are Alright!",master,1170
+"MIRACLE RUSH",basic,200
+"MIRACLE RUSH",advanced,500
+"MIRACLE RUSH",expert,870
+"MIRACLE RUSH",master,1170
+"Futuristic Player",basic,300
+"Futuristic Player",advanced,600
+"Futuristic Player",expert,900
+"Futuristic Player",master,1220
+"Clattanoia",basic,300
+"Clattanoia",advanced,500
+"Clattanoia",expert,900
+"Clattanoia",master,1240
+"L.L.L.",basic,300
+"L.L.L.",advanced,600
+"L.L.L.",expert,900
+"L.L.L.",master,1270
+"ミリオン／ワンズ",basic,300
+"ミリオン／ワンズ",advanced,600
+"ミリオン／ワンズ",expert,900
+"ミリオン／ワンズ",master,1230
 "ブリキノダンス",basic,300
 "ブリキノダンス",advanced,500
 "ブリキノダンス",expert,900
@@ -2098,6 +2122,14 @@
 "バレリーコ",advanced,500
 "バレリーコ",expert,900
 "バレリーコ",master,1170
+"おちゃめ機能",basic,200
+"おちゃめ機能",advanced,500
+"おちゃめ機能",expert,800
+"おちゃめ機能",master,1200
+"輪廻転生",basic,300
+"輪廻転生",advanced,600
+"輪廻転生",expert,970
+"輪廻転生",master,1240
 "シャルル",basic,300
 "シャルル",advanced,500
 "シャルル",expert,800
@@ -2170,6 +2202,14 @@
 "Parousia",advanced,700
 "Parousia",expert,1070
 "Parousia",master,1350
+"Papyrus",basic,300
+"Papyrus",advanced,500
+"Papyrus",expert,900
+"Papyrus",master,1250
+"Black Lair",basic,200
+"Black Lair",advanced,600
+"Black Lair",expert,900
+"Black Lair",master,1260
 "オーケー？　オーライ！",basic,300
 "オーケー？　オーライ！",advanced,600
 "オーケー？　オーライ！",expert,900
@@ -2182,6 +2222,10 @@
 "ライトスピード・デイズ",advanced,500
 "ライトスピード・デイズ",expert,900
 "ライトスピード・デイズ",master,1250
+"Fire me up",basic,300
+"Fire me up",advanced,500
+"Fire me up",expert,900
+"Fire me up",master,1240
 "朝焼けプラットホーム",basic,300
 "朝焼けプラットホーム",advanced,500
 "朝焼けプラットホーム",expert,900
@@ -2262,6 +2306,22 @@
 "中学2年生のアンドロイド",advanced,800
 "中学2年生のアンドロイド",expert,1000
 "中学2年生のアンドロイド",master,1340
+"Life",basic,300
+"Life",advanced,500
+"Life",expert,1000
+"Life",master,1320
+"Solstånd",basic,200
+"Solstånd",advanced,500
+"Solstånd",expert,900
+"Solstånd",master,1240
+"Sqlupp",basic,300
+"Sqlupp",advanced,600
+"Sqlupp",expert,1200
+"Sqlupp",master,1350
+"Climax",basic,400
+"Climax",advanced,970
+"Climax",expert,1270
+"Climax",master,1390
 "larva",basic,400
 "larva",advanced,870
 "larva",expert,1200
@@ -2270,3 +2330,11 @@
 "ロキ",advanced,500
 "ロキ",expert,900
 "ロキ",master,1200
+"Innocent Truth",basic,300
+"Innocent Truth",advanced,700
+"Innocent Truth",expert,970
+"Innocent Truth",master,1310
+"CITRUS MONSTER",basic,400
+"CITRUS MONSTER",advanced,800
+"CITRUS MONSTER",expert,1120
+"CITRUS MONSTER",master,1370
