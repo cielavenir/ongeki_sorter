@@ -4,7 +4,7 @@
 - Google Spreadsheetに貼り付けることで https://docs.google.com/spreadsheets/d/17EHX57cQ_nE9euPWj-5yRjMIaEABvCzizbU0lzmnKCc/edit?usp=sharing のような表が作れます。
 
 ## 制限
-- 正直、急造です。ちゃんとしたツールにする予定が取れない状態です。だれか作るまでのつなぎと考えていただければ--;
+- 正直、急造です。ちゃんとしたツールにする予定が取れない状態です。~~だれか作るまでのつなぎと考えていただければ--;~~
 - ongeki_parse_csv.rbの実行にはRubyが必要です。OSXでは標準で入っています。2.0で動作確認、1.9以降なら動くはずです。
 - AA(90万点)行っていない譜面については算出されるレートがずれる可能性があります。
 
@@ -18,6 +18,7 @@
 - https://www.ginjake.net/ongeki/readme のブックマークレット
     - ~~https://github.com/cielavenir/ongeki_score/blob/update_bookmarklet/public/js/ongeki_score.js~~
 - 実行するとcsvが得られます。
+- オンゲキPLUSではmusic idが数値でなくなったため、ginjake.netにはアップロードできなくなっていますが、ongeki_parse_csvでは問題なく解釈できます。
 - ginjake.netの説明書にも記載がありますが、 **有料コース加入が必要です。ただし、OngekiScoreLogと異なりプレミアムコースは不要です。スタンダードコースで問題ありません。**
 
 ## レート表
