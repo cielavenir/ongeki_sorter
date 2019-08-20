@@ -8,7 +8,7 @@
 "Reach for the Stars",master,1230
 "初音ミクの消失",basic,500
 "初音ミクの消失",advanced,800
-"初音ミクの消失",expert,1200
+"初音ミクの消失",expert,1190
 "初音ミクの消失",master,1340
 "コネクト",basic,300
 "コネクト",advanced,500
@@ -72,10 +72,10 @@
 "sweet little sister",master,1160
 "L9",basic,400
 "L9",advanced,600
-"L9",expert,900
+"L9",expert,970
 "L9",master,1260
 "Bad Apple!! feat.nomico",basic,100
-"Bad Apple!! feat.nomico",advanced,400
+"Bad Apple!! feat.nomico",advanced,500
 "Bad Apple!! feat.nomico",expert,800
 "Bad Apple!! feat.nomico",master,1100
 "六兆年と一夜物語",basic,300
@@ -102,17 +102,13 @@
 "Teriqma",advanced,500
 "Teriqma",expert,1000
 "Teriqma",master,1230
-"夏祭り",basic,200
-"夏祭り",advanced,400
-"夏祭り",expert,800
-"夏祭り",master,1120
 "Invitation",basic,300
 "Invitation",advanced,600
 "Invitation",expert,870
 "Invitation",master,1070
 "GOLDEN RULE",basic,400
 "GOLDEN RULE",advanced,700
-"GOLDEN RULE",expert,1100
+"GOLDEN RULE",expert,1130
 "GOLDEN RULE",master,1360
 "名も無い鳥",basic,300
 "名も無い鳥",advanced,600
@@ -171,7 +167,7 @@
 "Counselor",expert,970
 "Counselor",master,1170
 "luna blu",basic,300
-"luna blu",advanced,800
+"luna blu",advanced,900
 "luna blu",expert,1200
 "luna blu",master,1350
 "ケモノガル",basic,400
@@ -208,12 +204,12 @@
 "JET",master,1100
 "L'épisode",basic,400
 "L'épisode",advanced,770
-"L'épisode",expert,1170
+"L'épisode",expert,1200
 "L'épisode",master,1360
 "Yet Another ”drizzly rain”",basic,300
 "Yet Another ”drizzly rain”",advanced,500
 "Yet Another ”drizzly rain”",expert,900
-"Yet Another ”drizzly rain”",master,1160
+"Yet Another ”drizzly rain”",master,1170
 "最終鬼畜妹・一部声",basic,300
 "最終鬼畜妹・一部声",advanced,700
 "最終鬼畜妹・一部声",expert,1000
@@ -291,7 +287,7 @@
 "Sweet Devil",expert,870
 "Sweet Devil",master,1190
 "Dreaming",basic,200
-"Dreaming",advanced,400
+"Dreaming",advanced,500
 "Dreaming",expert,800
 "Dreaming",master,1170
 "君の知らない物語",basic,300
@@ -326,10 +322,6 @@
 "橙の幻想郷音頭",advanced,400
 "橙の幻想郷音頭",expert,800
 "橙の幻想郷音頭",master,1070
-"夏影",basic,100
-"夏影",advanced,400
-"夏影",expert,800
-"夏影",master,1220
 "The Formula",basic,400
 "The Formula",advanced,600
 "The Formula",expert,970
@@ -348,7 +340,7 @@
 "シリョクケンサ",master,1150
 "HAELEQUIN (Original Remaster)",basic,500
 "HAELEQUIN (Original Remaster)",advanced,800
-"HAELEQUIN (Original Remaster)",expert,1220
+"HAELEQUIN (Original Remaster)",expert,1230
 "HAELEQUIN (Original Remaster)",master,1380
 "Vallista",basic,400
 "Vallista",advanced,600
@@ -372,7 +364,7 @@
 "Guilty",master,1190
 "閃鋼のブリューナク",basic,400
 "閃鋼のブリューナク",advanced,900
-"閃鋼のブリューナク",expert,1170
+"閃鋼のブリューナク",expert,1190
 "閃鋼のブリューナク",master,1350
 "Altale",basic,300
 "Altale",advanced,500
@@ -392,7 +384,7 @@
 "Change Our MIRAI！",master,1180
 "夕暮れワンルーム",basic,300
 "夕暮れワンルーム",advanced,600
-"夕暮れワンルーム",expert,970
+"夕暮れワンルーム",expert,1000
 "夕暮れワンルーム",master,1170
 "こころここから",basic,200
 "こころここから",advanced,500
@@ -416,7 +408,7 @@
 "Alma",master,1270
 "Gustav Battle",basic,400
 "Gustav Battle",advanced,700
-"Gustav Battle",expert,1200
+"Gustav Battle",expert,1220
 "Gustav Battle",master,1300
 "SAVIOR OF SONG",basic,300
 "SAVIOR OF SONG",advanced,600
@@ -476,7 +468,7 @@
 "DETARAME ROCK&ROLL THEORY",master,1120
 "XL TECHNO",basic,200
 "XL TECHNO",advanced,500
-"XL TECHNO",expert,1070
+"XL TECHNO",expert,1110
 "XL TECHNO",master,1260
 "Halcyon",basic,300
 "Halcyon",advanced,700
@@ -500,7 +492,7 @@
 "すろぉもぉしょん",master,1130
 "怒槌",basic,600
 "怒槌",advanced,970
-"怒槌",expert,1270
+"怒槌",expert,1280
 "怒槌",master,1400
 "ユクエシレズ",basic,200
 "ユクエシレズ",advanced,500
@@ -521,7 +513,7 @@
 "エテルニタス・ルドロジー",basic,300
 "エテルニタス・ルドロジー",advanced,700
 "エテルニタス・ルドロジー",expert,1000
-"エテルニタス・ルドロジー",master,1260
+"エテルニタス・ルドロジー",master,1270
 "幽闇に目醒めしは",basic,200
 "幽闇に目醒めしは",advanced,400
 "幽闇に目醒めしは",expert,800
@@ -545,7 +537,7 @@
 "FREEDOM DiVE",basic,500
 "FREEDOM DiVE",advanced,800
 "FREEDOM DiVE",expert,1150
-"FREEDOM DiVE",master,1370
+"FREEDOM DiVE",master,1380
 "Jack-the-Ripper◆",basic,400
 "Jack-the-Ripper◆",advanced,800
 "Jack-the-Ripper◆",expert,1170
@@ -680,12 +672,8 @@
 "Devastating Blaster",master,1390
 "ファッとして桃源郷",basic,300
 "ファッとして桃源郷",advanced,600
-"ファッとして桃源郷",expert,900
+"ファッとして桃源郷",expert,970
 "ファッとして桃源郷",master,1250
-"フレンズ",basic,200
-"フレンズ",advanced,500
-"フレンズ",expert,800
-"フレンズ",master,1190
 "夜咄ディセイブ",basic,300
 "夜咄ディセイブ",advanced,600
 "夜咄ディセイブ",expert,1000
@@ -708,7 +696,7 @@
 "なるとなぎのパーフェクトロックンロール教室",master,1280
 "絶世スターゲイト",basic,300
 "絶世スターゲイト",advanced,600
-"絶世スターゲイト",expert,900
+"絶世スターゲイト",expert,970
 "絶世スターゲイト",master,1170
 "Schrecklicher Aufstand",basic,500
 "Schrecklicher Aufstand",advanced,900
@@ -717,7 +705,7 @@
 "ドライヴ・オン・ザ・レインボー",basic,200
 "ドライヴ・オン・ザ・レインボー",advanced,500
 "ドライヴ・オン・ザ・レインボー",expert,1070
-"ドライヴ・オン・ザ・レインボー",master,1270
+"ドライヴ・オン・ザ・レインボー",master,1280
 "Philosopher",basic,400
 "Philosopher",advanced,700
 "Philosopher",expert,1180
@@ -736,7 +724,7 @@
 "Warcry",master,1310
 "その群青が愛しかったようだった",basic,300
 "その群青が愛しかったようだった",advanced,600
-"その群青が愛しかったようだった",expert,970
+"その群青が愛しかったようだった",expert,1000
 "その群青が愛しかったようだった",master,1170
 "札付きのワル　～マイケルのうた～",basic,300
 "札付きのワル　～マイケルのうた～",advanced,600
@@ -748,7 +736,7 @@
 "BOKUTO",master,1300
 "TiamaT:F minor",basic,400
 "TiamaT:F minor",advanced,900
-"TiamaT:F minor",expert,1280
+"TiamaT:F minor",expert,1270
 "TiamaT:F minor",master,1400
 "Oshama Scramble! (Cranky Remix)",basic,400
 "Oshama Scramble! (Cranky Remix)",advanced,700
@@ -790,10 +778,6 @@
 "Bang Babang Bang!!!",advanced,600
 "Bang Babang Bang!!!",expert,1070
 "Bang Babang Bang!!!",master,1280
-"僕らの翼",basic,300
-"僕らの翼",advanced,500
-"僕らの翼",expert,800
-"僕らの翼",master,1110
 "エンヴィキャットウォーク",basic,300
 "エンヴィキャットウォーク",advanced,600
 "エンヴィキャットウォーク",expert,900
@@ -854,6 +838,10 @@
 "幸せになれる隠しコマンドがあるらしい",advanced,500
 "幸せになれる隠しコマンドがあるらしい",expert,1000
 "幸せになれる隠しコマンドがあるらしい",master,1270
+"メルト",basic,200
+"メルト",advanced,500
+"メルト",expert,800
+"メルト",master,1160
 "Tell Your World",basic,300
 "Tell Your World",advanced,500
 "Tell Your World",expert,800
@@ -894,10 +882,6 @@
 "響",advanced,500
 "響",expert,970
 "響",master,1200
-"かくしん的☆めたまるふぉ～ぜっ!",basic,300
-"かくしん的☆めたまるふぉ～ぜっ!",advanced,500
-"かくしん的☆めたまるふぉ～ぜっ!",expert,870
-"かくしん的☆めたまるふぉ～ぜっ!",master,1210
 "風仁雷仁",basic,300
 "風仁雷仁",advanced,500
 "風仁雷仁",expert,900
@@ -906,10 +890,6 @@
 "PRIVATE SERVICE",advanced,500
 "PRIVATE SERVICE",expert,970
 "PRIVATE SERVICE",master,1260
-"secret base ～君がくれたもの～ (10 years after Ver.)",basic,100
-"secret base ～君がくれたもの～ (10 years after Ver.)",advanced,400
-"secret base ～君がくれたもの～ (10 years after Ver.)",expert,870
-"secret base ～君がくれたもの～ (10 years after Ver.)",master,1180
 "No Routine",basic,200
 "No Routine",advanced,600
 "No Routine",expert,900
@@ -942,38 +922,18 @@
 "Paqqin",advanced,600
 "Paqqin",expert,1000
 "Paqqin",master,1270
-"fake!fake!",basic,300
-"fake!fake!",advanced,600
-"fake!fake!",expert,900
-"fake!fake!",master,1190
-"Rising Hope",basic,300
-"Rising Hope",advanced,600
-"Rising Hope",expert,900
-"Rising Hope",master,1250
 "覚醒楽奏メタフィクション",basic,300
 "覚醒楽奏メタフィクション",advanced,770
 "覚醒楽奏メタフィクション",expert,1120
 "覚醒楽奏メタフィクション",master,1330
-"Be My Friend",basic,300
-"Be My Friend",advanced,500
-"Be My Friend",expert,870
-"Be My Friend",master,1180
 "ぶいえす!!らいばる!!",basic,400
 "ぶいえす!!らいばる!!",advanced,800
 "ぶいえす!!らいばる!!",expert,1100
 "ぶいえす!!らいばる!!",master,1320
-"ひだまりデイズ",basic,200
-"ひだまりデイズ",advanced,400
-"ひだまりデイズ",expert,800
-"ひだまりデイズ",master,1140
 "This game",basic,300
 "This game",advanced,600
 "This game",expert,900
 "This game",master,1180
-"オラシオン",basic,300
-"オラシオン",advanced,500
-"オラシオン",expert,800
-"オラシオン",master,1130
 "みくみくにしてあげる♪【してやんよ】",basic,300
 "みくみくにしてあげる♪【してやんよ】",advanced,500
 "みくみくにしてあげる♪【してやんよ】",expert,870
@@ -1000,7 +960,7 @@
 "ERIS -Legend of Gaidelia-",master,1250
 "Imperishable Night 2006 (2016 Refine)",basic,400
 "Imperishable Night 2006 (2016 Refine)",advanced,770
-"Imperishable Night 2006 (2016 Refine)",expert,1100
+"Imperishable Night 2006 (2016 Refine)",expert,1140
 "Imperishable Night 2006 (2016 Refine)",master,1360
 "Dreadnought",basic,400
 "Dreadnought",advanced,770
@@ -1025,7 +985,7 @@
 "★LittlE HearTs★",basic,400
 "★LittlE HearTs★",advanced,800
 "★LittlE HearTs★",expert,1140
-"★LittlE HearTs★",master,1380
+"★LittlE HearTs★",master,1390
 "STAIRWAY TO GENERATION",basic,300
 "STAIRWAY TO GENERATION",advanced,500
 "STAIRWAY TO GENERATION",expert,970
@@ -1236,7 +1196,7 @@
 "GOODTEK",master,1330
 "Name of oath",basic,300
 "Name of oath",advanced,700
-"Name of oath",expert,1100
+"Name of oath",expert,1110
 "Name of oath",master,1350
 "Bird Sprite",basic,300
 "Bird Sprite",advanced,500
@@ -1245,10 +1205,10 @@
 "オモイヨシノ",basic,300
 "オモイヨシノ",advanced,500
 "オモイヨシノ",expert,800
-"オモイヨシノ",master,1150
+"オモイヨシノ",master,1170
 "Dengeki Tube",basic,400
 "Dengeki Tube",advanced,770
-"Dengeki Tube",expert,1170
+"Dengeki Tube",expert,1210
 "Dengeki Tube",master,1390
 "若い力 -SEGA HARD GIRLS MIX-",basic,300
 "若い力 -SEGA HARD GIRLS MIX-",advanced,600
@@ -1296,7 +1256,7 @@
 "相思創愛",master,1240
 "混沌を越えし我らが神聖なる調律主を讃えよ",basic,500
 "混沌を越えし我らが神聖なる調律主を讃えよ",advanced,970
-"混沌を越えし我らが神聖なる調律主を讃えよ",expert,1320
+"混沌を越えし我らが神聖なる調律主を讃えよ",expert,1330
 "混沌を越えし我らが神聖なる調律主を讃えよ",master,1410
 "Finite",basic,300
 "Finite",advanced,700
@@ -1421,7 +1381,7 @@
 "パーフェクト生命",basic,300
 "パーフェクト生命",advanced,600
 "パーフェクト生命",expert,1000
-"パーフェクト生命",master,1270
+"パーフェクト生命",master,1260
 "のぼれ！すすめ！高い塔",basic,300
 "のぼれ！すすめ！高い塔",advanced,600
 "のぼれ！すすめ！高い塔",expert,970
@@ -1468,7 +1428,7 @@
 "Wake up Dreamer",master,1260
 "World Vanquisher",basic,400
 "World Vanquisher",advanced,970
-"World Vanquisher",expert,1270
+"World Vanquisher",expert,1280
 "World Vanquisher",master,1410
 "macrocosmos",basic,400
 "macrocosmos",advanced,900
@@ -1492,7 +1452,7 @@
 "Xevel",master,1390
 "セイクリッド　ルイン",basic,300
 "セイクリッド　ルイン",advanced,700
-"セイクリッド　ルイン",expert,1140
+"セイクリッド　ルイン",expert,1130
 "セイクリッド　ルイン",master,1350
 "極圏",basic,400
 "極圏",advanced,700
@@ -1596,7 +1556,7 @@
 "D✪N’T ST✪P R✪CKIN’ ～[✪_✪] MIX～",master,1250
 "Caliburne ～Story of the Legendary sword～",basic,400
 "Caliburne ～Story of the Legendary sword～",advanced,800
-"Caliburne ～Story of the Legendary sword～",expert,1210
+"Caliburne ～Story of the Legendary sword～",expert,1220
 "Caliburne ～Story of the Legendary sword～",master,1390
 "プリズム",basic,200
 "プリズム",advanced,500
@@ -1624,7 +1584,7 @@
 "Melody！",master,1190
 "G e n g a o z o",basic,400
 "G e n g a o z o",advanced,800
-"G e n g a o z o",expert,1240
+"G e n g a o z o",expert,1260
 "G e n g a o z o",master,1360
 "Vitalization",basic,300
 "Vitalization",advanced,600
@@ -1650,6 +1610,10 @@
 "WAVE",advanced,500
 "WAVE",expert,800
 "WAVE",master,1220
+"高気圧ねこロック",basic,300
+"高気圧ねこロック",advanced,600
+"高気圧ねこロック",expert,1000
+"高気圧ねこロック",master,1260
 "Philosophyz",basic,300
 "Philosophyz",advanced,500
 "Philosophyz",expert,800
@@ -1660,7 +1624,7 @@
 "虹色のフリューゲル",master,1180
 "ETERNAL DRAIN",basic,300
 "ETERNAL DRAIN",advanced,500
-"ETERNAL DRAIN",expert,900
+"ETERNAL DRAIN",expert,970
 "ETERNAL DRAIN",master,1260
 "Paradisus-Paradoxum",basic,300
 "Paradisus-Paradoxum",advanced,600
@@ -1676,7 +1640,7 @@
 "チルノのパーフェクトさんすう教室　⑨周年バージョン",master,1290
 "プレパレード",basic,300
 "プレパレード",advanced,500
-"プレパレード",expert,900
+"プレパレード",expert,970
 "プレパレード",master,1180
 "オレンジ",basic,300
 "オレンジ",advanced,500
@@ -1740,7 +1704,7 @@
 "拝啓ドッペルゲンガー",master,1310
 "Doppelganger",basic,600
 "Doppelganger",advanced,970
-"Doppelganger",expert,1180
+"Doppelganger",expert,1210
 "Doppelganger",master,1380
 "色は匂へど散りぬるを",basic,200
 "色は匂へど散りぬるを",advanced,400
@@ -1756,7 +1720,7 @@
 "Sparking Revolver",master,1360
 "Gate of Doom",basic,400
 "Gate of Doom",advanced,800
-"Gate of Doom",expert,1200
+"Gate of Doom",expert,1210
 "Gate of Doom",master,1380
 "ダンスロボットダンス",basic,300
 "ダンスロボットダンス",advanced,600
@@ -1867,9 +1831,13 @@
 "Uncontrollable",expert,900
 "Uncontrollable",master,1240
 "碧き孤島のアングゥィス",basic,300
-"碧き孤島のアングゥィス",advanced,500
+"碧き孤島のアングゥィス",advanced,600
 "碧き孤島のアングゥィス",expert,900
 "碧き孤島のアングゥィス",master,1280
+"Love your enemies",basic,300
+"Love your enemies",advanced,600
+"Love your enemies",expert,870
+"Love your enemies",master,1230
 "ラブって♡ジュエリー♪えんじぇる☆ブレイク！！",basic,300
 "ラブって♡ジュエリー♪えんじぇる☆ブレイク！！",advanced,500
 "ラブって♡ジュエリー♪えんじぇる☆ブレイク！！",expert,870
@@ -1888,7 +1856,7 @@
 "Sentimental Snow",master,1150
 "サンシャインサマー☆夏期講習",basic,300
 "サンシャインサマー☆夏期講習",advanced,600
-"サンシャインサマー☆夏期講習",expert,1000
+"サンシャインサマー☆夏期講習",expert,1100
 "サンシャインサマー☆夏期講習",master,1290
 "NYAN-NYA, More! ラブシャイン、Chu♥",basic,300
 "NYAN-NYA, More! ラブシャイン、Chu♥",advanced,600
@@ -1918,18 +1886,26 @@
 "TOMORROW",advanced,500
 "TOMORROW",expert,900
 "TOMORROW",master,1160
+"Super Lovely (Heavenly Remix)",basic,400
+"Super Lovely (Heavenly Remix)",advanced,600
+"Super Lovely (Heavenly Remix)",expert,900
+"Super Lovely (Heavenly Remix)",master,1340
 "Chocolate Happy",basic,300
 "Chocolate Happy",advanced,500
 "Chocolate Happy",expert,900
 "Chocolate Happy",master,1110
 "管弦楽組曲 第3番 ニ長調「第2曲（G線上のアリア）」BWV.1068-2",basic,300
 "管弦楽組曲 第3番 ニ長調「第2曲（G線上のアリア）」BWV.1068-2",advanced,700
-"管弦楽組曲 第3番 ニ長調「第2曲（G線上のアリア）」BWV.1068-2",expert,1190
+"管弦楽組曲 第3番 ニ長調「第2曲（G線上のアリア）」BWV.1068-2",expert,1200
 "管弦楽組曲 第3番 ニ長調「第2曲（G線上のアリア）」BWV.1068-2",master,1350
 "ここで一席！　Oshama Scramble!",basic,300
 "ここで一席！　Oshama Scramble!",advanced,600
 "ここで一席！　Oshama Scramble!",expert,970
 "ここで一席！　Oshama Scramble!",master,1250
+"ウサテイ",basic,300
+"ウサテイ",advanced,600
+"ウサテイ",expert,970
+"ウサテイ",master,1280
 "Scream out! -CHUNITHM Tuning-",basic,300
 "Scream out! -CHUNITHM Tuning-",advanced,600
 "Scream out! -CHUNITHM Tuning-",expert,970
@@ -1969,7 +1945,7 @@
 "Dual Fractal",basic,200
 "Dual Fractal",advanced,600
 "Dual Fractal",expert,1070
-"Dual Fractal",master,1280
+"Dual Fractal",master,1290
 "Drivessover",basic,300
 "Drivessover",advanced,700
 "Drivessover",expert,1130
@@ -1980,7 +1956,7 @@
 "Surveiller et punir",master,1390
 "業 -善なる神とこの世の悪について-",basic,400
 "業 -善なる神とこの世の悪について-",advanced,970
-"業 -善なる神とこの世の悪について-",expert,1300
+"業 -善なる神とこの世の悪について-",expert,1320
 "業 -善なる神とこの世の悪について-",master,1410
 "End Time",basic,300
 "End Time",advanced,800
@@ -2008,7 +1984,7 @@
 "灼熱スイッチ",master,1210
 "volcanic",basic,400
 "volcanic",advanced,900
-"volcanic",expert,1240
+"volcanic",expert,1200
 "volcanic",master,1350
 "アンノウン・マザーグース",basic,300
 "アンノウン・マザーグース",advanced,600
@@ -2020,7 +1996,7 @@
 "ゆけむり魂温泉 II",master,1220
 "サドマミホリック",basic,300
 "サドマミホリック",advanced,600
-"サドマミホリック",expert,1070
+"サドマミホリック",expert,1140
 "サドマミホリック",master,1320
 "Candyland Symphony",basic,300
 "Candyland Symphony",advanced,700
@@ -2053,7 +2029,7 @@
 "むしとりのうた",basic,100
 "むしとりのうた",advanced,400
 "むしとりのうた",expert,700
-"むしとりのうた",master,1000
+"むしとりのうた",master,1070
 "sister's noise",basic,200
 "sister's noise",advanced,500
 "sister's noise",expert,800
@@ -2137,7 +2113,7 @@
 "地獄の端にて君を待つ",basic,300
 "地獄の端にて君を待つ",advanced,600
 "地獄の端にて君を待つ",expert,900
-"地獄の端にて君を待つ",master,1240
+"地獄の端にて君を待つ",master,1250
 "聖少女サクリファイス",basic,200
 "聖少女サクリファイス",advanced,500
 "聖少女サクリファイス",expert,900
@@ -2157,7 +2133,7 @@
 "ナイト・オブ・ナイツ (Cranky Remix)",basic,300
 "ナイト・オブ・ナイツ (Cranky Remix)",advanced,600
 "ナイト・オブ・ナイツ (Cranky Remix)",expert,1000
-"ナイト・オブ・ナイツ (Cranky Remix)",master,1320
+"ナイト・オブ・ナイツ (Cranky Remix)",master,1310
 "Brain Power",basic,300
 "Brain Power",advanced,700
 "Brain Power",expert,1100
@@ -2165,14 +2141,14 @@
 "ouroboros -twin stroke of the end-",basic,300
 "ouroboros -twin stroke of the end-",advanced,800
 "ouroboros -twin stroke of the end-",expert,1070
-"ouroboros -twin stroke of the end-",master,1360
+"ouroboros -twin stroke of the end-",master,1370
 "GERBERA",basic,400
 "GERBERA",advanced,800
-"GERBERA",expert,1160
+"GERBERA",expert,1170
 "GERBERA",master,1360
 "Taiko Drum Monster",basic,300
 "Taiko Drum Monster",advanced,700
-"Taiko Drum Monster",expert,1180
+"Taiko Drum Monster",expert,1150
 "Taiko Drum Monster",master,1340
 "Blooming Villain (ATLUS Konishi Remix)",basic,200
 "Blooming Villain (ATLUS Konishi Remix)",advanced,500
@@ -2192,7 +2168,7 @@
 "全ての人の魂の戦い (Daisuke Asakura Remix)",master,1240
 "Nhelv",basic,300
 "Nhelv",advanced,600
-"Nhelv",expert,1210
+"Nhelv",expert,1240
 "Nhelv",master,1360
 "PUPA",basic,400
 "PUPA",advanced,700
@@ -2210,6 +2186,10 @@
 "Black Lair",advanced,600
 "Black Lair",expert,900
 "Black Lair",master,1260
+"Pilgrimage",basic,200
+"Pilgrimage",advanced,400
+"Pilgrimage",expert,870
+"Pilgrimage",master,1070
 "オーケー？　オーライ！",basic,300
 "オーケー？　オーライ！",advanced,600
 "オーケー？　オーライ！",expert,900
@@ -2233,7 +2213,7 @@
 "PAST",basic,300
 "PAST",advanced,600
 "PAST",expert,900
-"PAST",master,1250
+"PAST",master,1270
 "Blessed",basic,300
 "Blessed",advanced,500
 "Blessed",expert,970
@@ -2249,7 +2229,7 @@
 "Seagull",basic,300
 "Seagull",advanced,600
 "Seagull",expert,900
-"Seagull",master,1250
+"Seagull",master,1260
 "Blaster Heaven",basic,300
 "Blaster Heaven",advanced,600
 "Blaster Heaven",expert,900
@@ -2264,19 +2244,19 @@
 "Summer is over",master,1280
 "folern",basic,400
 "folern",advanced,800
-"folern",expert,1250
+"folern",expert,1270
 "folern",master,1370
 "2DVenture",basic,300
 "2DVenture",advanced,700
 "2DVenture",expert,970
-"2DVenture",master,1270
+"2DVenture",master,1260
 "ぜったい！昇天★鎮魂歌♂",basic,400
 "ぜったい！昇天★鎮魂歌♂",advanced,600
 "ぜったい！昇天★鎮魂歌♂",expert,970
 "ぜったい！昇天★鎮魂歌♂",master,1350
 "夕焼けのRed Parade",basic,400
 "夕焼けのRed Parade",advanced,800
-"夕焼けのRed Parade",expert,1230
+"夕焼けのRed Parade",expert,1240
 "夕焼けのRed Parade",master,1380
 "StufeStern",basic,300
 "StufeStern",advanced,500
@@ -2285,7 +2265,7 @@
 "スピカの天秤",basic,400
 "スピカの天秤",advanced,800
 "スピカの天秤",expert,1210
-"スピカの天秤",master,1380
+"スピカの天秤",master,1370
 "涙色メモリア",basic,300
 "涙色メモリア",advanced,600
 "涙色メモリア",expert,970
@@ -2324,8 +2304,20 @@
 "Climax",master,1390
 "larva",basic,400
 "larva",advanced,870
-"larva",expert,1200
-"larva",master,1380
+"larva",expert,1190
+"larva",master,1370
+"CYCLES",basic,200
+"CYCLES",advanced,500
+"CYCLES",expert,870
+"CYCLES",master,1190
+"夢花火",basic,200
+"夢花火",advanced,500
+"夢花火",expert,900
+"夢花火",master,1230
+"FEEL the BEATS",basic,300
+"FEEL the BEATS",advanced,600
+"FEEL the BEATS",expert,900
+"FEEL the BEATS",master,1190
 "ロキ",basic,200
 "ロキ",advanced,500
 "ロキ",expert,900
@@ -2338,3 +2330,227 @@
 "CITRUS MONSTER",advanced,800
 "CITRUS MONSTER",expert,1120
 "CITRUS MONSTER",master,1370
+"キミとボクのミライ",basic,300
+"キミとボクのミライ",advanced,600
+"キミとボクのミライ",expert,900
+"キミとボクのミライ",master,1210
+"SHINY DAYS",basic,200
+"SHINY DAYS",advanced,500
+"SHINY DAYS",expert,870
+"SHINY DAYS",master,1070
+"Sparkling Daydream",basic,300
+"Sparkling Daydream",advanced,600
+"Sparkling Daydream",expert,900
+"Sparkling Daydream",master,1220
+"U.S.A.",basic,200
+"U.S.A.",advanced,500
+"U.S.A.",expert,870
+"U.S.A.",master,1170
+"Don't say ""lazy""",basic,300
+"Don't say ""lazy""",advanced,500
+"Don't say ""lazy""",expert,800
+"Don't say ""lazy""",master,1240
+"サヨナラフリーウェイ",basic,300
+"サヨナラフリーウェイ",advanced,600
+"サヨナラフリーウェイ",expert,870
+"サヨナラフリーウェイ",master,1190
+"Ai Nov",basic,400
+"Ai Nov",advanced,770
+"Ai Nov",expert,1210
+"Ai Nov",master,1370
+"エンジェデビ",basic,300
+"エンジェデビ",advanced,600
+"エンジェデビ",expert,1000
+"エンジェデビ",master,1220
+"Servant of Love",basic,300
+"Servant of Love",advanced,500
+"Servant of Love",expert,970
+"Servant of Love",master,1270
+"アイリちゃんは暗黒魔導士!",basic,300
+"アイリちゃんは暗黒魔導士!",advanced,700
+"アイリちゃんは暗黒魔導士!",expert,1000
+"アイリちゃんは暗黒魔導士!",master,1350
+"電光石火",basic,400
+"電光石火",advanced,900
+"電光石火",expert,1240
+"電光石火",master,1390
+"strelitzia",basic,300
+"strelitzia",advanced,600
+"strelitzia",expert,970
+"strelitzia",master,1270
+"サヨナラチェーンソー",basic,200
+"サヨナラチェーンソー",advanced,500
+"サヨナラチェーンソー",expert,800
+"サヨナラチェーンソー",master,1190
+"Seyana. ～何でも言うことを聞いてくれるアカネチャン～",basic,200
+"Seyana. ～何でも言うことを聞いてくれるアカネチャン～",advanced,400
+"Seyana. ～何でも言うことを聞いてくれるアカネチャン～",expert,870
+"Seyana. ～何でも言うことを聞いてくれるアカネチャン～",master,1250
+"はやくそれになりたい！",basic,300
+"はやくそれになりたい！",advanced,600
+"はやくそれになりたい！",expert,870
+"はやくそれになりたい！",master,1220
+"ちがう!!!",basic,300
+"ちがう!!!",advanced,600
+"ちがう!!!",expert,800
+"ちがう!!!",master,1250
+"雨とペトラ",basic,300
+"雨とペトラ",advanced,500
+"雨とペトラ",expert,900
+"雨とペトラ",master,1190
+"あうんどばいみー",basic,300
+"あうんどばいみー",advanced,500
+"あうんどばいみー",expert,870
+"あうんどばいみー",master,1240
+"White Traveling Girl",basic,200
+"White Traveling Girl",advanced,600
+"White Traveling Girl",expert,900
+"White Traveling Girl",master,1180
+"トランスダンスアナーキー",basic,300
+"トランスダンスアナーキー",advanced,600
+"トランスダンスアナーキー",expert,900
+"トランスダンスアナーキー",master,1240
+"ゴールドビジョン",basic,300
+"ゴールドビジョン",advanced,700
+"ゴールドビジョン",expert,1000
+"ゴールドビジョン",master,1350
+"【東方ニコカラ】秘神マターラ feat.魂音泉【IOSYS】",basic,200
+"【東方ニコカラ】秘神マターラ feat.魂音泉【IOSYS】",advanced,500
+"【東方ニコカラ】秘神マターラ feat.魂音泉【IOSYS】",expert,900
+"【東方ニコカラ】秘神マターラ feat.魂音泉【IOSYS】",master,1270
+"Ever green Never end",basic,300
+"Ever green Never end",advanced,600
+"Ever green Never end",expert,900
+"Ever green Never end",master,1230
+"咲かせよ 沸かせよ バンバンBURN！",basic,200
+"咲かせよ 沸かせよ バンバンBURN！",advanced,500
+"咲かせよ 沸かせよ バンバンBURN！",expert,800
+"咲かせよ 沸かせよ バンバンBURN！",master,1220
+"Fracture Ray",basic,300
+"Fracture Ray",advanced,800
+"Fracture Ray",expert,1190
+"Fracture Ray",master,1380
+"Axium Crisis",basic,300
+"Axium Crisis",advanced,700
+"Axium Crisis",expert,1070
+"Axium Crisis",master,1270
+"Grievous Lady",basic,300
+"Grievous Lady",advanced,900
+"Grievous Lady",expert,1220
+"Grievous Lady",master,1380
+"CO5M1C R4ILR0AD",basic,300
+"CO5M1C R4ILR0AD",advanced,700
+"CO5M1C R4ILR0AD",expert,1100
+"CO5M1C R4ILR0AD",master,1310
+"Pure Ruby",basic,400
+"Pure Ruby",advanced,700
+"Pure Ruby",expert,1070
+"Pure Ruby",master,1340
+"一世嬉遊曲‐ディヴェルティメント‐",basic,400
+"一世嬉遊曲‐ディヴェルティメント‐",advanced,600
+"一世嬉遊曲‐ディヴェルティメント‐",expert,900
+"一世嬉遊曲‐ディヴェルティメント‐",master,1280
+"恋のチャイム",basic,200
+"恋のチャイム",advanced,400
+"恋のチャイム",expert,870
+"恋のチャイム",master,1110
+"逃げろ！サテライトキャンパス！！",basic,300
+"逃げろ！サテライトキャンパス！！",advanced,500
+"逃げろ！サテライトキャンパス！！",expert,900
+"逃げろ！サテライトキャンパス！！",master,1280
+"THE BRASS OF GOODSPEED!!",basic,300
+"THE BRASS OF GOODSPEED!!",advanced,600
+"THE BRASS OF GOODSPEED!!",expert,900
+"THE BRASS OF GOODSPEED!!",master,1250
+"TREAT OR TREAT?",basic,300
+"TREAT OR TREAT?",advanced,500
+"TREAT OR TREAT?",expert,900
+"TREAT OR TREAT?",master,1270
+"TRIGGER",basic,300
+"TRIGGER",advanced,600
+"TRIGGER",expert,870
+"TRIGGER",master,1250
+"カゲロウデイズ",basic,300
+"カゲロウデイズ",advanced,600
+"カゲロウデイズ",expert,870
+"カゲロウデイズ",master,1270
+"妄想感傷代償連盟",basic,200
+"妄想感傷代償連盟",advanced,500
+"妄想感傷代償連盟",expert,900
+"妄想感傷代償連盟",master,1170
+"Everlasting Today",basic,400
+"Everlasting Today",advanced,700
+"Everlasting Today",expert,1200
+"Everlasting Today",master,1360
+"Distance",basic,300
+"Distance",advanced,500
+"Distance",expert,800
+"Distance",master,1150
+"Outlaw's Lullaby",basic,300
+"Outlaw's Lullaby",advanced,700
+"Outlaw's Lullaby",expert,1000
+"Outlaw's Lullaby",master,1290
+"The Pursuit of Speed",basic,300
+"The Pursuit of Speed",advanced,600
+"The Pursuit of Speed",expert,970
+"The Pursuit of Speed",master,1260
+"光線チューニング ～なずな妄想海フェスイメージトレーニングVer.～",basic,300
+"光線チューニング ～なずな妄想海フェスイメージトレーニングVer.～",advanced,600
+"光線チューニング ～なずな妄想海フェスイメージトレーニングVer.～",expert,900
+"光線チューニング ～なずな妄想海フェスイメージトレーニングVer.～",master,1240
+"39",basic,300
+"39",advanced,600
+"39",expert,870
+"39",master,1190
+"FLY two BLUE",basic,200
+"FLY two BLUE",advanced,500
+"FLY two BLUE",expert,700
+"FLY two BLUE",master,1070
+"Wish me luck!!!!",basic,300
+"Wish me luck!!!!",advanced,500
+"Wish me luck!!!!",expert,870
+"Wish me luck!!!!",master,1100
+"Funny Funky Freaky",basic,300
+"Funny Funky Freaky",advanced,500
+"Funny Funky Freaky",expert,970
+"Funny Funky Freaky",master,1270
+"ZEUS",basic,400
+"ZEUS",advanced,700
+"ZEUS",expert,1100
+"ZEUS",master,1360
+"Agitation！",basic,300
+"Agitation！",advanced,500
+"Agitation！",expert,900
+"Agitation！",master,1140
+"暗晦にハイライト",basic,400
+"暗晦にハイライト",advanced,700
+"暗晦にハイライト",expert,1100
+"暗晦にハイライト",master,1350
+"8-EM",basic,400
+"8-EM",advanced,800
+"8-EM",expert,1200
+"8-EM",master,1380
+"Killing Rhythm",basic,400
+"Killing Rhythm",advanced,970
+"Killing Rhythm",expert,1320
+"Killing Rhythm",master,1400
+"STARTLINER",basic,100
+"STARTLINER",advanced,500
+"STARTLINER",expert,770
+"STARTLINER",master,1000
+"Vibrant Verve",basic,300
+"Vibrant Verve",advanced,500
+"Vibrant Verve",expert,1070
+"Vibrant Verve",master,1300
+"燃えてもエンジョイ！宛城、炎上！！",basic,500
+"燃えてもエンジョイ！宛城、炎上！！",advanced,700
+"燃えてもエンジョイ！宛城、炎上！！",expert,1100
+"燃えてもエンジョイ！宛城、炎上！！",master,1330
+"BlythE",basic,300
+"BlythE",advanced,700
+"BlythE",expert,1110
+"BlythE",master,1320
+"GO",basic,200
+"GO",advanced,500
+"GO",expert,800
+"GO",master,1170

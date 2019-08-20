@@ -49,7 +49,7 @@
 "Red “reduction division” -crossroads version-",MASTER,1190
 "First Twinkle",MASTER,1140
 "SWEET SHAKE!!",MASTER,1260
-"What color...",MASTER,1270
+"What color...",MASTER,1280
 "SAKURA",MASTER,1090
 "We Gonna Journey",MASTER,1340
 "Paqqin",MASTER,1300
@@ -142,6 +142,57 @@
 "Tell Your World",MASTER,1150
 "からくりピエロ",MASTER,1280
 "＊ハロー、プラネット。",MASTER,1180
+"Cream＋Mint",MASTER,1110
+"Kiss Me Kiss",MASTER,1270
+"Death Doll",MASTER,1380
+"Chelly spLash♪♪",MASTER,1350
+"オンゲキ全域★アカネサマ？",MASTER,1350
+"Lost Princess",MASTER,1180
+"アリサのテーマ",MASTER,1360
+"極上スマイル",MASTER,1160
+"High Free Spirits",MASTER,1260
+"Paradise Lost",MASTER,1250
+"Connecting Happy！！",MASTER,1240
+"シャルル",MASTER,1200
+"メニメニマニマニ",MASTER,1310
+"ネ！コ！",MASTER,1270
+"めんどーい！やっほーい！ともだち！",MASTER,1270
+"BOUNCE ＆ DANCE",MASTER,1330
+"心　",MASTER,1440
+"終わりの先の音節",MASTER,1330
+"Sentimental Snow",MASTER,1200
+"エピクロスの虹はもう見えない",MASTER,1360
+"進捗どうですか？",MASTER,1260
+"東方妖々夢 ～the maximum moving about～",MASTER,1270
+"寒想桜",MASTER,1210
+"妖狐仙楽踏",MASTER,1320
+"Necro Fantasia",MASTER,1290
+"Colors",MASTER,1210
+"櫻結び",MASTER,1230
+"Melody！",MASTER,1260
+"Scream out！ -音華鏡 Re：BREAK-",MASTER,1340
+"conflict",MASTER,1370
+"UTAKATA",MASTER,1290
+"Rule the World！！",MASTER,1270
+"どうぶつ☆パラダイス",MASTER,1230
+"Y.Y.Y.計画！！！！",MASTER,1250
+"fantastic dreamer",MASTER,1240
+"DreamRiser",MASTER,1180
+"Rising Hope",MASTER,1300
+"Hand in Hand",MASTER,1270
+"39　",MASTER,1220
+"メルト",MASTER,1200
+"Starring Stars",MASTER,1250
+"Viyella’s Tears",MASTER,1480
+"Garakuta Doll Play",MASTER,1420
+"The wheel to the right",MASTER,1390
+"Aenbharr",MASTER,1430
+"ω4",MASTER,1490
+"チルノのパーフェクトさんすう教室",MASTER,1260
+"光線チューニング",MASTER,1270
+"ドーナツホール",MASTER,1310
+"人生リセットボタン",MASTER,1350
+"妄想感傷代償連盟",MASTER,1220
 "STARTLINER",EXPERT,870
 "Perfect Shining!!",EXPERT,800
 "君の知らない物語",EXPERT,770
@@ -164,7 +215,7 @@
 "Here We Go",EXPERT,900
 "Mare Maris",EXPERT,900
 "Hyper Active",EXPERT,1100
-"Brain Power",EXPERT,1030
+"Brain Power",EXPERT,970
 "Halcyon",EXPERT,1100
 "Dolphika",EXPERT,1070
 "P！P！P！P！がおー!!",EXPERT,1050
@@ -175,14 +226,14 @@
 "千本桜",EXPERT,800
 "オモイヨシノ",EXPERT,900
 "天火明命",EXPERT,970
-"Cyberozar",EXPERT,970
-"AMAZING MIGHTYYYY!!!!",EXPERT,1060
-"Ai Nov",EXPERT,1110
+"Cyberozar",EXPERT,1000
+"AMAZING MIGHTYYYY!!!!",EXPERT,1070
+"Ai Nov",EXPERT,1100
 "キミノヨゾラ哨戒班",EXPERT,900
-"Gate of Doom",EXPERT,1080
-"ロッキンピンクモンスター",EXPERT,1070
+"Gate of Doom",EXPERT,1100
+"ロッキンピンクモンスター",EXPERT,1080
 "木彫り鯰と右肩ゾンビ",EXPERT,970
-"鬼KYOKAN",EXPERT,1000
+"鬼KYOKAN",EXPERT,1050
 "ブツメツビーターズ",EXPERT,990
 "ときめきエクスペリエンス！",EXPERT,800
 "That Is How I Roll!",EXPERT,900
@@ -207,10 +258,10 @@
 "グリーンライツ・セレナーデ",EXPERT,900
 "Bad Apple!! feat.nomico",EXPERT,800
 "ナイト・オブ・ナイツ",EXPERT,970
-"幻想のサテライト",EXPERT,1000
+"幻想のサテライト",EXPERT,1030
 "Grip & Break down !!",EXPERT,900
 "GAME IS LIFE",EXPERT,970
-"ぼくらの16bit戦争",EXPERT,1040
+"ぼくらの16bit戦争",EXPERT,1030
 "oboro",EXPERT,900
 "GranFatalité",EXPERT,900
 "Äventyr",EXPERT,870
@@ -221,7 +272,7 @@
 "れみりあ☆デスティニー",EXPERT,900
 "sweet little sister",EXPERT,900
 "Destiny Runner",EXPERT,1000
-"最終鬼畜妹フランドール・Ｓ",EXPERT,1010
+"最終鬼畜妹フランドール・Ｓ",EXPERT,1030
 "砂の惑星 feat. HATSUNE MIKU",EXPERT,800
 "ゴーストルール",EXPERT,970
 "ブリキノダンス",EXPERT,900
@@ -262,7 +313,7 @@
 "時の冒険者",EXPERT,970
 "Redo",EXPERT,900
 "Jump！！ Jump！！ Jump！！",EXPERT,900
-"TAKE ON THE WORLD",EXPERT,1000
+"TAKE ON THE WORLD",EXPERT,1020
 "Grand symphony",EXPERT,900
 "TeA",EXPERT,1000
 "流星",EXPERT,870
@@ -282,10 +333,61 @@
 "カンペキWill",EXPERT,800
 "初音ミクの消失",EXPERT,1170
 "炉心融解",EXPERT,900
-"星屑ユートピア",EXPERT,1100
+"星屑ユートピア",EXPERT,1110
 "Tell Your World",EXPERT,870
 "からくりピエロ",EXPERT,800
 "＊ハロー、プラネット。",EXPERT,970
+"Cream＋Mint",EXPERT,800
+"Kiss Me Kiss",EXPERT,970
+"Death Doll",EXPERT,1120
+"Chelly spLash♪♪",EXPERT,1090
+"オンゲキ全域★アカネサマ？",EXPERT,1080
+"Lost Princess",EXPERT,900
+"アリサのテーマ",EXPERT,900
+"極上スマイル",EXPERT,870
+"High Free Spirits",EXPERT,970
+"Paradise Lost",EXPERT,900
+"Connecting Happy！！",EXPERT,900
+"シャルル",EXPERT,870
+"メニメニマニマニ",EXPERT,970
+"ネ！コ！",EXPERT,900
+"めんどーい！やっほーい！ともだち！",EXPERT,970
+"BOUNCE ＆ DANCE",EXPERT,1040
+"心　",EXPERT,900
+"終わりの先の音節",EXPERT,1100
+"Sentimental Snow",EXPERT,800
+"エピクロスの虹はもう見えない",EXPERT,900
+"進捗どうですか？",EXPERT,970
+"東方妖々夢 ～the maximum moving about～",EXPERT,1000
+"寒想桜",EXPERT,870
+"妖狐仙楽踏",EXPERT,1070
+"Necro Fantasia",EXPERT,900
+"Colors",EXPERT,800
+"櫻結び",EXPERT,900
+"Melody！",EXPERT,870
+"Scream out！ -音華鏡 Re：BREAK-",EXPERT,1090
+"conflict",EXPERT,1140
+"UTAKATA",EXPERT,900
+"Rule the World！！",EXPERT,1010
+"どうぶつ☆パラダイス",EXPERT,800
+"Y.Y.Y.計画！！！！",EXPERT,970
+"fantastic dreamer",EXPERT,970
+"DreamRiser",EXPERT,970
+"Rising Hope",EXPERT,1010
+"Hand in Hand",EXPERT,870
+"39　",EXPERT,870
+"メルト",EXPERT,800
+"Starring Stars",EXPERT,900
+"Viyella’s Tears",EXPERT,1330
+"Garakuta Doll Play",EXPERT,1290
+"The wheel to the right",EXPERT,1220
+"Aenbharr",EXPERT,1260
+"ω4",EXPERT,1340
+"チルノのパーフェクトさんすう教室",EXPERT,900
+"光線チューニング",EXPERT,1000
+"ドーナツホール",EXPERT,1010
+"人生リセットボタン",EXPERT,1130
+"妄想感傷代償連盟",EXPERT,800
 "STARTLINER",ADVANCED,500
 "Perfect Shining!!",ADVANCED,600
 "君の知らない物語",ADVANCED,500
@@ -430,6 +532,57 @@
 "Tell Your World",ADVANCED,600
 "からくりピエロ",ADVANCED,500
 "＊ハロー、プラネット。",ADVANCED,600
+"Cream＋Mint",ADVANCED,500
+"Kiss Me Kiss",ADVANCED,600
+"Death Doll",ADVANCED,700
+"Chelly spLash♪♪",ADVANCED,770
+"オンゲキ全域★アカネサマ？",ADVANCED,700
+"Lost Princess",ADVANCED,500
+"アリサのテーマ",ADVANCED,600
+"極上スマイル",ADVANCED,500
+"High Free Spirits",ADVANCED,700
+"Paradise Lost",ADVANCED,600
+"Connecting Happy！！",ADVANCED,600
+"シャルル",ADVANCED,500
+"メニメニマニマニ",ADVANCED,600
+"ネ！コ！",ADVANCED,600
+"めんどーい！やっほーい！ともだち！",ADVANCED,600
+"BOUNCE ＆ DANCE",ADVANCED,700
+"心　",ADVANCED,600
+"終わりの先の音節",ADVANCED,700
+"Sentimental Snow",ADVANCED,500
+"エピクロスの虹はもう見えない",ADVANCED,600
+"進捗どうですか？",ADVANCED,600
+"東方妖々夢 ～the maximum moving about～",ADVANCED,700
+"寒想桜",ADVANCED,500
+"妖狐仙楽踏",ADVANCED,600
+"Necro Fantasia",ADVANCED,600
+"Colors",ADVANCED,500
+"櫻結び",ADVANCED,600
+"Melody！",ADVANCED,600
+"Scream out！ -音華鏡 Re：BREAK-",ADVANCED,700
+"conflict",ADVANCED,700
+"UTAKATA",ADVANCED,600
+"Rule the World！！",ADVANCED,600
+"どうぶつ☆パラダイス",ADVANCED,500
+"Y.Y.Y.計画！！！！",ADVANCED,700
+"fantastic dreamer",ADVANCED,600
+"DreamRiser",ADVANCED,500
+"Rising Hope",ADVANCED,700
+"Hand in Hand",ADVANCED,700
+"39　",ADVANCED,600
+"メルト",ADVANCED,500
+"Starring Stars",ADVANCED,600
+"Viyella’s Tears",ADVANCED,970
+"Garakuta Doll Play",ADVANCED,870
+"The wheel to the right",ADVANCED,800
+"Aenbharr",ADVANCED,800
+"ω4",ADVANCED,970
+"チルノのパーフェクトさんすう教室",ADVANCED,600
+"光線チューニング",ADVANCED,600
+"ドーナツホール",ADVANCED,700
+"人生リセットボタン",ADVANCED,700
+"妄想感傷代償連盟",ADVANCED,500
 "STARTLINER",BASIC,200
 "Perfect Shining!!",BASIC,300
 "君の知らない物語",BASIC,200
@@ -574,7 +727,62 @@
 "Tell Your World",BASIC,200
 "からくりピエロ",BASIC,100
 "＊ハロー、プラネット。",BASIC,200
+"Cream＋Mint",BASIC,200
+"Kiss Me Kiss",BASIC,200
+"Death Doll",BASIC,300
+"Chelly spLash♪♪",BASIC,500
+"オンゲキ全域★アカネサマ？",BASIC,400
+"Lost Princess",BASIC,200
+"アリサのテーマ",BASIC,200
+"極上スマイル",BASIC,200
+"High Free Spirits",BASIC,400
+"Paradise Lost",BASIC,300
+"Connecting Happy！！",BASIC,300
+"シャルル",BASIC,200
+"メニメニマニマニ",BASIC,300
+"ネ！コ！",BASIC,300
+"めんどーい！やっほーい！ともだち！",BASIC,300
+"BOUNCE ＆ DANCE",BASIC,200
+"心　",BASIC,300
+"終わりの先の音節",BASIC,400
+"Sentimental Snow",BASIC,200
+"エピクロスの虹はもう見えない",BASIC,200
+"進捗どうですか？",BASIC,300
+"東方妖々夢 ～the maximum moving about～",BASIC,300
+"寒想桜",BASIC,200
+"妖狐仙楽踏",BASIC,200
+"Necro Fantasia",BASIC,300
+"Colors",BASIC,200
+"櫻結び",BASIC,300
+"Melody！",BASIC,300
+"Scream out！ -音華鏡 Re：BREAK-",BASIC,300
+"conflict",BASIC,300
+"UTAKATA",BASIC,300
+"Rule the World！！",BASIC,200
+"どうぶつ☆パラダイス",BASIC,100
+"Y.Y.Y.計画！！！！",BASIC,300
+"fantastic dreamer",BASIC,300
+"DreamRiser",BASIC,200
+"Rising Hope",BASIC,300
+"Hand in Hand",BASIC,200
+"39　",BASIC,300
+"メルト",BASIC,200
+"Starring Stars",BASIC,400
+"Viyella’s Tears",BASIC,500
+"Garakuta Doll Play",BASIC,500
+"The wheel to the right",BASIC,400
+"Aenbharr",BASIC,400
+"ω4",BASIC,500
+"チルノのパーフェクトさんすう教室",BASIC,200
+"光線チューニング",BASIC,300
+"ドーナツホール",BASIC,300
+"人生リセットボタン",BASIC,400
+"妄想感傷代償連盟",BASIC,100
 "No Remorse",LUNATIC,1400
 "初音ミクの激唱",LUNATIC,1390
 "ナイト・オブ・ナイツ",LUNATIC,1380
 "ようこそジャパリパークへ",LUNATIC,1300
+"Sakura Fubuki",LUNATIC,1370
+"怒槌～光吉猛修一部謎～",LUNATIC,0
+"Calamity Fortune",LUNATIC,1400
+"STARTLINER",LUNATIC,1280
